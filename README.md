@@ -480,7 +480,7 @@ previous version of the internal contract.
 
 To build the contracts in this repository, you need to setup your ink!
 development environment. We suggest following the [ink! Smart Contracts
-Tutorial](https://substrate.dev/substrate-contracts-workshop/#/0/introduction).
+Tutorial](https://docs.substrate.io/tutorials/smart-contracts/).
 
 `cargo-contract` doesn't support building multiple contracts in a workspace, so
 every contract needs to be built separately. To make things easier, there's a
